@@ -1,6 +1,6 @@
 # React Essentials - Daniela Serrano
 
-This is a React project using where it explains some basic concepts. I built it as a result of the React course implementation by Maximilian Schwarzmüller (Udemy).
+This is a React project using where it explains some basic concepts. I built it as a result of the React course by Maximilian Schwarzmüller (Udemy).
 
 ## Table of contents
 
