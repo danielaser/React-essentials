@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [React Essentials](https://card-counter-score.netlify.app/)
+- Live Site URL: [React Essentials](https://react-essential-concepts.netlify.app/)
 
 ## My process
 
